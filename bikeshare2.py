@@ -334,6 +334,5 @@ def main():
             print('\nOK, BYE! :)\n')
             break
 
-#F currently running main
 if __name__ == "__main__":
 	main()
