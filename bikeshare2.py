@@ -12,6 +12,14 @@ city_list = ['Chicago', 'New York City', 'Washington']
 months = ['January', 'February', 'March', 'April', 'May', 'June']
 days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
 
+# is it possible to use one def to verify user input in each section that follows?
+def verification():
+    """
+    Make sure user input matches the input list. Prompt the message for user to retype if not correct
+    """
+    while city not in city_list:
+        print('\nThat seems to be an invalid input.\nPlease choose your answer from the following list: ', city_list)
+        city = input('From which city would you like to see the data?: ').title()
 
 def get_filters():
     """
