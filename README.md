@@ -12,5 +12,5 @@ Raw data: chicago.csv, new_york_city.csv, washington.csv
 Code: bikeshare2.py
 
 ### Credits
-n/a
+My walrus mentor: Austin Rivas
 
