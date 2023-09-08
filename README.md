@@ -11,6 +11,5 @@ Use Python to understand U.S. bikeshare data. Calculate statistics and build an 
 Raw data: chicago.csv, new_york_city.csv, washington.csv
 Code: bikeshare2.py
 
-### Credits
-My walrus mentor: Austin Rivas
+
 
